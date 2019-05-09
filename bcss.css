@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-image: url(halv\ fining.png);
+    background-size: cover;
+}
+#bank {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    font-size: 1.5em;
+}        
+#game {
+    font-size: 8em;
+    height: 500px;
+    width: 500px;
+    border-radius: 300px;
+    background-image: url(headshot.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+#game:active {
+
+}        
+button:focus {
+    outline: 0px;
+}
